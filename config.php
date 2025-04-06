@@ -1,6 +1,6 @@
 <?php
 //nome do site, se utilizar algum nome ex: "localhost" ou algum DNS personalizado insita também o http://
-$site = '127.0.0.1/agenda-php-mysql/';
+$site = 'localhost:3000/';
 
 //nome do banco de dados
 $nome_banco = "agendaaps";
